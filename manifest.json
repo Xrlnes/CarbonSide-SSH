@@ -1,12 +1,12 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.1",
   "notes": "",
-  "publishedAt": "2025-12-05T10:56:33.644Z",
+  "publishedAt": "2025-12-05T11:10:45.032Z",
   "files": {
     "win": {
-      "url": "https://github.com/Xrlnes/CarbonSide-SSH/releases/download/v1.0.2/Carbonside.SSH.Setup.1.0.2.exe",
-      "sha256": "c24f5bb490862d111e73186290d43abfadb24be526211953ad155fca585003f1"
+      "url": "https://github.com/Xrlnes/CarbonSide-SSH/releases/download/v1.0.1/Carbonside.SSH.Setup.1.0.1.exe",
+      "sha256": "647558f597f0e5bdb1e8e6479fda859e6ef19723be7dc2342fe47f0ae35f4e7d"
     }
   },
-  "signature": "yH/ZDDH1dmfRQCZeeOh3T/kr0qZZid8q5Km6ZcuHNlcv2lxzowcDGnAAu7TQaeJyuMpqx6/8+2FVQF0bAPWIDQ=="
+  "signature": "i6uCBzTuuzmlzwvg6/Hp22rjclUCTl7ANr3hS3hTVKk6KMPJxcNzES94TXpWTH97s6PLfzVuHtfXx6LhJGbTAA=="
 }
