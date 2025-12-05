@@ -1,0 +1,12 @@
+{
+  "version": "1.0.1",
+  "notes": "",
+  "publishedAt": "2025-12-05T01:09:25.211Z",
+  "files": {
+    "win": {
+      "url": "https://github.com/your-org/your-repo/releases/download/v1.0.1/Carbonside SSH Setup 1.0.1.exe",
+      "sha256": "e365e8bacdff49342de9246209d6600a1a00b448e11be4ede0d1c54bd4963c50"
+    }
+  },
+  "signature": "eYkQ7F7yYm2NGMN2IbSqX09l70lSviCKPJ16kSQ/ul9H4oF1RPl3NkIvWuUbVednKMpZZQGgOvDT+Palij6iDQ=="
+}
